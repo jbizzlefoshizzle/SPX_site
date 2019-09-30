@@ -18,7 +18,7 @@ function unpack(rows, index) {
 
 // Calculate a rolling average for an array
 function rollingAverage(arr, windowPeriod = 5) {
-  // rolling averages array to return
+  // rolling averages array
   var averages = [];
 
   // Loop through all of the data
